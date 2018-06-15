@@ -1,0 +1,22 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Flay3",
+    "texture": "ef1b08de-330d-49d5-ad29-93a8676ff6db",
+    "atlas": "",
+    "rect": [
+      145,
+      259,
+      37,
+      24
+    ],
+    "offset": [
+      3.5,
+      -31
+    ],
+    "originalSize": [
+      320,
+      480
+    ]
+  }
+}

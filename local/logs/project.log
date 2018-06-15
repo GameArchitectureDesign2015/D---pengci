@@ -1,0 +1,65 @@
+2018-06-15T02:28:55.767Z - normal: Load ~/.CocosCreator/settings.json
+2018-06-15T02:28:55.776Z - normal: checking language setting...
+2018-06-15T02:28:55.776Z - normal: Language: zh
+2018-06-15T02:29:05.333Z - success: protocol editor-framework registered
+2018-06-15T02:29:05.333Z - success: protocol app registered
+2018-06-15T02:29:05.334Z - success: protocol theme registered
+2018-06-15T02:29:05.334Z - success: protocol packages registered
+2018-06-15T02:29:05.334Z - success: protocol unpack registerred
+2018-06-15T02:29:05.335Z - success: protocol disable-commonjs registerred
+2018-06-15T02:29:05.670Z - normal: connected!
+2018-06-15T02:29:05.675Z - normal: Check project D:\学生端\FlappyBird01
+2018-06-15T02:29:05.679Z - normal: Initializing Cocos2d
+2018-06-15T02:29:08.552Z - normal: Initializing Asset Database
+2018-06-15T02:29:08.766Z - success: protocol uuid registerred
+2018-06-15T02:29:08.767Z - success: protocol db registerred
+2018-06-15T02:29:08.767Z - success: protocol thumbnail registerred
+2018-06-15T02:29:08.767Z - normal: Loading editor/builtin packages
+2018-06-15T02:29:08.875Z - success: anysdk loaded
+2018-06-15T02:29:09.288Z - success: assets loaded
+2018-06-15T02:29:09.292Z - success: builder loaded
+2018-06-15T02:29:09.298Z - success: cocos-analytics loaded
+2018-06-15T02:29:09.304Z - success: console loaded
+2018-06-15T02:29:09.376Z - success: fb-instant-games loaded
+2018-06-15T02:29:09.384Z - success: hierarchy loaded
+2018-06-15T02:29:09.389Z - success: inspector loaded
+2018-06-15T02:29:09.392Z - success: keystore loaded
+2018-06-15T02:29:09.398Z - success: node-library loaded
+2018-06-15T02:29:09.401Z - success: package-asset loaded
+2018-06-15T02:29:09.406Z - success: preferences loaded
+2018-06-15T02:29:09.409Z - success: project-exporter loaded
+2018-06-15T02:29:09.444Z - success: project-importer loaded
+2018-06-15T02:29:09.447Z - success: project-settings loaded
+2018-06-15T02:29:09.451Z - success: ui-kit loaded
+2018-06-15T02:29:09.469Z - success: ui-grid loaded
+2018-06-15T02:29:09.478Z - success: scene loaded
+2018-06-15T02:29:09.481Z - success: sprite-editor loaded
+2018-06-15T02:29:09.487Z - success: store loaded
+2018-06-15T02:29:09.505Z - success: timeline loaded
+2018-06-15T02:29:09.505Z - normal: Loading builtin packages
+2018-06-15T02:29:09.511Z - success: asset-db-debugger loaded
+2018-06-15T02:29:09.514Z - success: code-editor loaded
+2018-06-15T02:29:09.520Z - success: color-picker loaded
+2018-06-15T02:29:09.523Z - success: package-manager loaded
+2018-06-15T02:29:09.564Z - success: sdkbox loaded
+2018-06-15T02:29:09.569Z - success: tester loaded
+2018-06-15T02:29:09.573Z - success: ui-kit-preview-extra loaded
+2018-06-15T02:29:09.575Z - success: ui-kit-preview loaded
+2018-06-15T02:29:09.577Z - success: ui-tree loaded
+2018-06-15T02:29:14.282Z - normal: Initializing project D:\学生端\FlappyBird01
+2018-06-15T02:29:14.305Z - normal: Loading packages
+2018-06-15T02:29:14.313Z - normal: Watching packages
+2018-06-15T02:29:14.356Z - normal: Run Application
+2018-06-15T02:29:18.012Z - success: preview server running at http://localhost:7456
+2018-06-15T02:29:43.592Z - normal: 1.9.0
+2018-06-15T03:12:59.349Z - info: shutdown preview server
+2018-06-15T03:12:59.713Z - error: TypeError: Cannot read property 'nativeWin' of null
+    at Object.callback (E:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:2550)
+    at Timeout.setTimeout [as _onTimeout] (E:\CocosCreator\resources\app.asar\editor-framework\lib\main\ipc.js:1:356)
+    at ontimeout (timers.js:386:14)
+    at tryOnTimeout (timers.js:250:5)
+    at Timer.listOnTimeout (timers.js:214:5)
+    at process.on.t (E:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:1068)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:191:7)
+    at process._fatalException (bootstrap_node.js:308:26)
